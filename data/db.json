@@ -1,0 +1,77 @@
+{
+  "bookings": [],
+  "services": [
+    {
+      "id": "1",
+      "name": "Classic Haircut",
+      "description": "Traditional haircut with scissors and clippers",
+      "price": "$35",
+      "duration": "30 min",
+      "category": "haircut"
+    },
+    {
+      "id": "2",
+      "name": "Premium Haircut & Styling",
+      "description": "Haircut with wash, style, and premium products",
+      "price": "$50",
+      "duration": "45 min",
+      "category": "haircut"
+    },
+    {
+      "id": "3",
+      "name": "Beard Trim & Shape",
+      "description": "Professional beard trimming and shaping",
+      "price": "$25",
+      "duration": "20 min",
+      "category": "grooming"
+    },
+    {
+      "id": "4",
+      "name": "Hot Towel Shave",
+      "description": "Traditional straight razor shave with hot towel treatment",
+      "price": "$45",
+      "duration": "40 min",
+      "category": "grooming"
+    },
+    {
+      "id": "5",
+      "name": "Hair Coloring",
+      "description": "Professional hair coloring service",
+      "price": "$80",
+      "duration": "90 min",
+      "category": "styling"
+    },
+    {
+      "id": "6",
+      "name": "Kids Haircut",
+      "description": "Haircut for children under 12",
+      "price": "$25",
+      "duration": "20 min",
+      "category": "haircut"
+    },
+    {
+      "id": "7",
+      "name": "The Complete Package",
+      "description": "Haircut, beard trim, hot towel shave, and styling",
+      "price": "$100",
+      "duration": "90 min",
+      "category": "special"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "1",
+      "type": "photo",
+      "url": "/images/gallery/haircut1.jpg",
+      "title": "Classic Fade",
+      "description": "Professional fade haircut"
+    },
+    {
+      "id": "2",
+      "type": "photo",
+      "url": "/images/gallery/haircut2.jpg",
+      "title": "Modern Style",
+      "description": "Contemporary styling"
+    }
+  ]
+}
